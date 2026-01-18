@@ -1,4 +1,5 @@
 
+
 | Week | Date | Emne |
 |------|------------|-----------------------------------------------------------------------|
 | 5 | 29-01-26 | Introduktion til faget - recap af systemudviklingsmetoder - agile |
