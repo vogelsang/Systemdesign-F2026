@@ -1,2 +1,2 @@
-hello
 
+Course page https://vogelsang.github.io/Systemdesign-F2026/

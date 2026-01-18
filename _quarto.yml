@@ -1,27 +1,84 @@
 project:
   type: website
-  output-dir: _site
+  render:
+  - "*.qmd"              # Render all regular files
+  - "*.md"             # Render all your many md 
+  - "!_secret_notes.qmd" # The "!" tells Quarto: DO NOT RENDER THIS
 
+editor:
+  render-on-save: true
+    
 website:
-  title: "Systemdesign-F2026"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: exercises/index.md
-        text: Exercises
-      - href: slides/index.qmd
-        text: Slides
-      - href: literature/index.qmd
-        text: Literature
-      - href: projects/index.md
-        text: Projects
-      - href: modules/index.md
-        text: Modules
-
+  title: "AI-Agenter-F2026"
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Course Information"
+        href: index.qmd
+        contents:
+          - href: index.qmd
+            text: Home
+          - href: about.qmd
+            text: About
+      - section: "Modules"
+        href: modules/index.qmd
+        contents:
+          - modules/week01-module.md
+          - modules/week02-module.md
+          - modules/week03-module.md
+          - modules/week04-module.md
+          - modules/week05-module.md
+          - modules/week06-module.md
+          - modules/week07-module.md
+          - modules/week08-module.md
+          - modules/week09-module.md
+          - modules/week10-module.md
+      - section: "Literature"
+        href: literature/index.qmd
+        contents:
+          - literature/week01-literature.md
+      - section: "Slides"
+        href: slides/index.qmd
+        contents:
+          - slides/week01-slides.md
+          - slides/week02-slides.md
+          - slides/week03-slides.md
+          - slides/week04-slides.md
+          - slides/week05-slides.md
+          - slides/week06-slides.md
+          - slides/week07-slides.md
+          - slides/week08-slides.md
+          - slides/week09-slides.md
+          - slides/week10-slides.md
+      - section: "Exercises"
+        href: exercises/index.md
+        contents:
+          - exercises/week01-exercises.md
+          - exercises/week02-exercises.md
+          - exercises/week03-exercises.md
+          - exercises/week04-exercises.md
+          - exercises/week05-exercises.md
+          - exercises/week06-exercises.md
+          - exercises/week07-exercises.md
+          - exercises/week08-exercises.md
+          - exercises/week09-exercises.md
+          - exercises/week10-exercises.md
+      - section: "Projects"
+        href: projects/index.md
+        contents:
+          - projects/index.md
+          - projects/two-week-project.md
+          - projects/final-project.md
+      - section: "Final Exam"
+        href: web/final-exam.md
+        contents:
+          - web/final-exam.md
 format:
   html:
-    theme: cosmo
+    theme: Slate
     css: styles.css
     toc: true
+
+publish:
+  exclude:
+    - "documentation"

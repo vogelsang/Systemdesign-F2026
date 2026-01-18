@@ -1,18 +1,4 @@
----
-title: "1. Systemdesign"
-subtitle: "1. Lecture - Introduction"
-author: "Lasse Vogelsang"
-format: 
-  revealjs:
-    theme: night
-    incremental: true    # Bullets appear one by one
-    chalkboard: true     # Draw on slides
-    title-slide-attributes:
-      data-background-image: "images/Lec1_robot.png"
-      data-background-opacity: "0.5"
----
-
-# Introduktion til systemdesign
+## Systemdesign
 
 Lektion 1
 
@@ -74,13 +60,13 @@ Review og feedback til IT og økonomistuderende
 
 ## Slide 8
 
-![](lec1_files/ppt/media/image1.png "Billede 6")
+![](./slides/lec1_files/ppt/media/image1.png "Billede 6")
 
 ## Recap af systemudviklingsmetoder
 
 ## Metoder – vandfald – ”plan driven”
 
-![](lec1_files/ppt/media/image2.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image2.png "Picture 4")
 
 ## Agile
 
@@ -120,15 +106,15 @@ Løbende validering af kunder
 
 Dokumentation bliver ikke opdateret
 
-![](lec1_files/ppt/media/image3.png "Picture 6")
+![](./slides/lec1_files/ppt/media/image3.png "Picture 6")
 
-![](lec1_files/ppt/media/image4.png "Picture 8")
+![](./slides/lec1_files/ppt/media/image4.png "Picture 8")
 
 ## Agile Manifesto
 
 https://agilemanifesto.org/
 
-![](lec1_files/ppt/media/image5.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image5.png "Picture 4")
 
 ## Øvelse
 
@@ -158,11 +144,11 @@ Emphasis on innovative programming practices  (as of the early 2000s), such as a
 
 ## SCRUM
 
-![Et billede, der indeholder tekst, skærmbillede, design](lec1_files/ppt/media/image6.jpeg "Picture 2")
+![Et billede, der indeholder tekst, skærmbillede, design](./slides/lec1_files/ppt/media/image6.jpeg "Picture 2")
 
 ## Kanban
 
-![undefined](lec1_files/ppt/media/image7.jpeg "Picture 2")
+![undefined](./slides/lec1_files/ppt/media/image7.jpeg "Picture 2")
 
 ## Øvelse
 
@@ -186,11 +172,11 @@ Development and testing, potentially using the Waterfall model. By the end of th
 
 Planning for the next iteration or deciding to conclude the project if the current implementation already meets the organization’s needs.
 
-![](lec1_files/ppt/media/image8.png "Picture 6")
+![](./slides/lec1_files/ppt/media/image8.png "Picture 6")
 
 ## Rational Unified Process
 
-![](lec1_files/ppt/media/image9.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image9.png "Picture 4")
 
 ## eXtreme  Programming
 
@@ -208,7 +194,7 @@ Vi kigger på en specifik praksis i dag, test driven development
 
 ## Test Driven Development
 
-![Se kildebilledet](lec1_files/ppt/media/image10.png "Picture 2")
+![Se kildebilledet](./slides/lec1_files/ppt/media/image10.png "Picture 2")
 
 ”Test First Development” - Skriv testen før koden
 
@@ -222,7 +208,7 @@ Now we refactor, to optimize the test structure and data.
 
 ## Slide 26
 
-![](lec1_files/ppt/media/image11.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image11.png "Picture 4")
 
 ## Hvorfor TDD?
 
@@ -248,23 +234,23 @@ Therefore, it is expected that developers will define a simple interface for the
 
 ## Slide 29
 
-![](lec1_files/ppt/media/image12.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image12.png "Picture 4")
 
 ## Slide 30
 
-![](lec1_files/ppt/media/image13.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image13.png "Picture 4")
 
 ## Slide 31
 
-![](lec1_files/ppt/media/image14.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image14.png "Picture 4")
 
 ## Slide 32
 
-![](lec1_files/ppt/media/image15.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image15.png "Picture 4")
 
 ## Slide 33
 
-![](lec1_files/ppt/media/image16.png "Picture 4")
+![](./slides/lec1_files/ppt/media/image16.png "Picture 4")
 
 ## Opgave
 
