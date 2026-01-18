@@ -1,111 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week02-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/web/final-exam.html</loc>
+    <lastmod>2026-01-18T09:59:54.197Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week04-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week10-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week06-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week01-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week03-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week06-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week04-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week05-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week01-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week03-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week02-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/about.html</loc>
-    <lastmod>2026-01-18T08:07:45.180Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week05-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week14-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week08-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
   </url>
   <url>
     <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week06-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week07-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
   </url>
   <url>
     <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week04-slides.html</loc>
-    <lastmod>2026-01-18T08:07:45.182Z</lastmod>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week14-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week02-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week07-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/projects/two-week-project.html</loc>
+    <lastmod>2026-01-18T09:59:54.186Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week01-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/projects/final-project.html</loc>
+    <lastmod>2026-01-18T09:59:54.186Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week02-exercises.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week09-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.177Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/docs/LecturePlans/structure.html</loc>
-    <lastmod>2026-01-18T08:07:45.180Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week07-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week03-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week05-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week05-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week03-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week01-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
   </url>
   <url>
     <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week07-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week14-literature.html</loc>
-    <lastmod>2026-01-18T08:07:45.181Z</lastmod>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week05-literature.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week03-literature.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week01-literature.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week10-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week08-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week06-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week04-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week02-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
   </url>
   <url>
     <loc>https://vogelsang.github.io/Systemdesign-F2026/courseoverview.html</loc>
-    <lastmod>2026-01-18T08:07:45.180Z</lastmod>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/about.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/index.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/index.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/lec1.html</loc>
+    <lastmod>2026-01-18T09:59:54.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/docs/LecturePlans/structure.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week01-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week03-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week05-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week07-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week09-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/exercises/week14-exercises.html</loc>
+    <lastmod>2026-01-18T09:59:54.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week02-literature.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week04-literature.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week06-literature.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/literature/week14-literature.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week02-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week04-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week06-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week08-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/modules/week10-module.html</loc>
+    <lastmod>2026-01-18T09:59:54.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/projects/index.html</loc>
+    <lastmod>2026-01-18T09:59:54.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week01-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week03-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week05-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week07-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week09-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/Systemdesign-F2026/slides/week14-slides.html</loc>
+    <lastmod>2026-01-18T09:59:54.196Z</lastmod>
   </url>
 </urlset>

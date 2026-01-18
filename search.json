@@ -1,16 +1,920 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Systemdesign-F2026",
+    "objectID": "web/final-exam.html",
+    "href": "web/final-exam.html",
+    "title": "Final Exam",
     "section": "",
-    "text": "hello"
+    "text": "Final Exam",
+    "crumbs": [
+      "Final Exam"
+    ]
+  },
+  {
+    "objectID": "slides/week10-slides.html",
+    "href": "slides/week10-slides.html",
+    "title": "Week 10 Slides",
+    "section": "",
+    "text": "Week 10 Slides",
+    "crumbs": [
+      "Slides",
+      "Week 10 Slides"
+    ]
+  },
+  {
+    "objectID": "slides/week08-slides.html",
+    "href": "slides/week08-slides.html",
+    "title": "Week 8 Slides",
+    "section": "",
+    "text": "Week 8 Slides",
+    "crumbs": [
+      "Slides",
+      "Week 8 Slides"
+    ]
+  },
+  {
+    "objectID": "projects/two-week-project.html",
+    "href": "projects/two-week-project.html",
+    "title": "Two Week Project",
+    "section": "",
+    "text": "Two Week Project",
+    "crumbs": [
+      "Projects",
+      "Two Week Project"
+    ]
+  },
+  {
+    "objectID": "projects/final-project.html",
+    "href": "projects/final-project.html",
+    "title": "Final Project",
+    "section": "",
+    "text": "Final Project",
+    "crumbs": [
+      "Projects",
+      "Final Project"
+    ]
+  },
+  {
+    "objectID": "modules/week09-module.html",
+    "href": "modules/week09-module.html",
+    "title": "Week 9 Module",
+    "section": "",
+    "text": "Week 9 Module",
+    "crumbs": [
+      "Modules",
+      "Week 9 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week07-module.html",
+    "href": "modules/week07-module.html",
+    "title": "Week 7 Module",
+    "section": "",
+    "text": "Week 7 Module",
+    "crumbs": [
+      "Modules",
+      "Week 7 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week05-module.html",
+    "href": "modules/week05-module.html",
+    "title": "Week 5 Module",
+    "section": "",
+    "text": "Week 5 Module",
+    "crumbs": [
+      "Modules",
+      "Week 5 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week03-module.html",
+    "href": "modules/week03-module.html",
+    "title": "Week 3 Module",
+    "section": "",
+    "text": "Week 3 Module",
+    "crumbs": [
+      "Modules",
+      "Week 3 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week01-module.html",
+    "href": "modules/week01-module.html",
+    "title": "Week 1 Module",
+    "section": "",
+    "text": "Week 1 Module",
+    "crumbs": [
+      "Modules",
+      "Week 1 Module"
+    ]
+  },
+  {
+    "objectID": "exercises/week10-exercises.html",
+    "href": "exercises/week10-exercises.html",
+    "title": "Week 10 Exercises",
+    "section": "",
+    "text": "Week 10 Exercises",
+    "crumbs": [
+      "Exercises",
+      "Week 10 Exercises"
+    ]
+  },
+  {
+    "objectID": "exercises/week08-exercises.html",
+    "href": "exercises/week08-exercises.html",
+    "title": "Week 8 Exercises",
+    "section": "",
+    "text": "Week 8 Exercises",
+    "crumbs": [
+      "Exercises",
+      "Week 8 Exercises"
+    ]
   },
   {
     "objectID": "courseoverview.html",
     "href": "courseoverview.html",
-    "title": "Systemdesign-F2026",
+    "title": "AI-Agenter-F2026",
     "section": "",
-    "text": "Here is the data from the image formatted as a Markdown table, excluding the first column and the course column as requested.\n\n\n\n\n\n\n\n\nWeek\nDate\nEmne\n\n\n\n\n5\n29-01-26\nIntroduktion til faget - recap af systemudviklingsmetoder - agile\n\n\n6\n05-02-26\nKrav - FURPS - function vs non-functionel - MoSCoW-modellen\n\n\n7\n12-02-26\nPrompt as a spec - vibe coding\n\n\n8\n19-02-26\nXP - TTD\n\n\n9\n26-02-26\nBurn down, poker planning, retrospective, etc. agile stuff\n\n\n10\n05-03-26\nSammenligning af metoder\n\n\n11\n12-03-26\nAbstraktion - context model - domain model - klassediagram\n\n\n12\n20-03-26\nArkitektur\n\n\n13\n26-03-26\nArkitektur - også AI - MCP vs. API - AI arkitektur\n\n\n15\n09-04-26\nProjekt\n\n\n16\n17-04-26\nDesign patterns\n\n\n17\n23-04-26\nAI design\n\n\n18\n30-04-26\nClean code og legecy code\n\n\n19\n07-05-26\nProjekt - opsamling - buffer\n\n\n21\n21-05-26\nProjekt\n\n\n22\n28-05-26\nProjekt"
+    "text": "Week\nDate\nEmne\n\n\n\n\n5\n29-01-26\nIntroduktion til faget - recap af systemudviklingsmetoder - agile\n\n\n6\n05-02-26\nKrav - FURPS - function vs non-functionel - MoSCoW-modellen - Abstraktion - context model - domain model - klassediagram\n\n\n7\n12-02-26\nPrompt as a spec - vibe coding\n\n\n8\n19-02-26\nXP - TTD\n\n\n9\n26-02-26\nBurn down, poker planning, retrospective, etc. agile stuff\n\n\n10\n05-03-26\nSammenligning af metoder\n\n\n11\n12-03-26\nArkitektur\n\n\n12\n20-03-26\nArkitektur - også AI - MCP vs. API - AI arkitektur\n\n\n13\n26-03-26\nBuffer\n\n\n15\n09-04-26\nProjekt\n\n\n16\n17-04-26\nDesign patterns\n\n\n17\n23-04-26\nAI design\n\n\n18\n30-04-26\nClean code og legecy code\n\n\n19\n07-05-26\nProjekt - opsamling - buffer\n\n\n21\n21-05-26\nProjekt\n\n\n22\n28-05-26\nProjekt\n\n\n\n\nFase 1: Design & Spec (The “What”)\n\nUge 5: Intro & Agile\nUge 6: Krav & Modellering (Recap til at styre AI)\nUge 7: AI Vibe Spec (Prompting baseret på modeller)\n\nFase 2: Proces & Kvalitet (The “How”)\n\nUge 8: XP / Testable Architecture\nUge 9: Agile planning (Poker, Burndown)\nUge 10: Metodesammenligning\n\nFase 3: Struktur (The “Structure”)\n\nUge 11: Arkitektur (Patterns, Styles)\nUge 12: AI Arkitektur & API (MCP, Agents)\n\nFase 4: Buffer & Projekt (The “Execution”)\n\nUge 13: BUFFER / Opvarmning til projekt (før Påske)\nUge 14: Påskeferie\nUge 15 -&gt; : Projektarbejde"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "Course page https://vogelsang.github.io/Systemdesign-F2026/",
+    "crumbs": [
+      "Course Information",
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "This is home",
+    "crumbs": [
+      "Course Information"
+    ]
+  },
+  {
+    "objectID": "modules/index.html",
+    "href": "modules/index.html",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "Week\nDate\nEmne\n\n\n\n\n5\n29-01-26\nIntroduktion til faget - recap af systemudviklingsmetoder - agile\n\n\n6\n05-02-26\nKrav - FURPS - function vs non-functionel - MoSCoW-modellen\n\n\n7\n12-02-26\nPrompt as a spec - vibe coding\n\n\n8\n19-02-26\nXP - TTD\n\n\n9\n26-02-26\nBurn down, poker planning, retrospective, etc. agile stuff\n\n\n10\n05-03-26\nSammenligning af metoder\n\n\n11\n12-03-26\nAbstraktion - context model - domain model - klassediagram\n\n\n12\n20-03-26\nArkitektur\n\n\n13\n26-03-26\nArkitektur - også AI - MCP vs. API - AI arkitektur\n\n\n15\n09-04-26\nProjekt\n\n\n16\n17-04-26\nDesign patterns\n\n\n17\n23-04-26\nAI design\n\n\n18\n30-04-26\nClean code og legecy code\n\n\n19\n07-05-26\nProjekt - opsamling - buffer\n\n\n21\n21-05-26\nProjekt\n\n\n22\n28-05-26\nProjekt",
+    "crumbs": [
+      "Modules"
+    ]
+  },
+  {
+    "objectID": "slides/lec1.html",
+    "href": "slides/lec1.html",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "Lektion 1"
+  },
+  {
+    "objectID": "slides/lec1.html#systemdesign",
+    "href": "slides/lec1.html#systemdesign",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "Lektion 1"
+  },
+  {
+    "objectID": "slides/lec1.html#agenda",
+    "href": "slides/lec1.html#agenda",
+    "title": "AI-Agenter-F2026",
+    "section": "Agenda",
+    "text": "Agenda\nIntroduktion til Systemdesign kurset\nRecap af agil tilgang\nSystemudviklingsmodeller\nOpstart af eXtreme programming\nTil næste gang…"
+  },
+  {
+    "objectID": "slides/lec1.html#kursets-struktur-og-emner",
+    "href": "slides/lec1.html#kursets-struktur-og-emner",
+    "title": "AI-Agenter-F2026",
+    "section": "Kursets struktur og emner",
+    "text": "Kursets struktur og emner\nSystemudviklingsmetoder ​\nDesign og arkitektur ​\nCase med IT og økonomi\nProjekt\nEksamen"
+  },
+  {
+    "objectID": "slides/lec1.html#studieordning---læringsmål",
+    "href": "slides/lec1.html#studieordning---læringsmål",
+    "title": "AI-Agenter-F2026",
+    "section": "Studieordning - læringsmål",
+    "text": "Studieordning - læringsmål\nViden ​ - d en studerende har:​ • viden om kravindsamling og kravbeskrivelse.​ • viden om modeller til omformning af krav til løsningsarkitektur.​ • viden om modelbaseret softwaredesign.​\nFærdigheder​ - den studerende kan:​ • anvende metoder og modeller til udarbejdelse af en løsningsarkitektur.​ • anvende standarder som en integreret del af en løsningsarkitektur.​ • anvende arkitektur patterns som grundlag for en løsningsarkitektur.​ • vurdere praksisnære og teoretiske problemstillinger inden for modelbaseret softwaredesign samt begrunde og vælge relevante løsningsmodeller.​ • formidle en løsningsarkitektur til relevante interessenter.​\nKompetencer​ - en studerende kan:​ • håndtere komplekse og udviklingssituationer med at analysere krav og metodisk og struktureret udarbejde en løsningsarkitektur baseret på standarder og arkitektur patterns.​ • identificere egne læringsbehov og udvikle egen viden, færdigheder og kompetencer i relation til udarbejdelse af løsningsarkitekturer.​\nhttps://katalog.kea.dk/course/4111406/2023-2024"
+  },
+  {
+    "objectID": "slides/lec1.html#undervisningsform",
+    "href": "slides/lec1.html#undervisningsform",
+    "title": "AI-Agenter-F2026",
+    "section": "Undervisningsform",
+    "text": "Undervisningsform\n”Undervisning vil være en vekselvirkning mellem præsentation, øvelser og projektarbejde.” ( https://katalog.kea.dk/course/4111406/2023-2024 )\nI skal øve jer I selv at opsøge information, så I kommer i højere grad til at være opsøgende omkring nye emner."
+  },
+  {
+    "objectID": "slides/lec1.html#eksamensform",
+    "href": "slides/lec1.html#eksamensform",
+    "title": "AI-Agenter-F2026",
+    "section": "Eksamensform",
+    "text": "Eksamensform\nFælles prøve med Projektstyring og Projektledelse\n30 min. ink. votering med kendte spørgsmål"
+  },
+  {
+    "objectID": "slides/lec1.html#projekter",
+    "href": "slides/lec1.html#projekter",
+    "title": "AI-Agenter-F2026",
+    "section": "Projekter",
+    "text": "Projekter\nFælles projekt med projektledelse og projektstyring\nAfsluttende projekt\nDet er IKKE et eksamensprojekt\nReview og feedback til IT og økonomistuderende"
+  },
+  {
+    "objectID": "slides/lec1.html#slide-8",
+    "href": "slides/lec1.html#slide-8",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 8",
+    "text": "Slide 8"
+  },
+  {
+    "objectID": "slides/lec1.html#recap-af-systemudviklingsmetoder",
+    "href": "slides/lec1.html#recap-af-systemudviklingsmetoder",
+    "title": "AI-Agenter-F2026",
+    "section": "Recap af systemudviklingsmetoder",
+    "text": "Recap af systemudviklingsmetoder"
+  },
+  {
+    "objectID": "slides/lec1.html#metoder-vandfald-plan-driven",
+    "href": "slides/lec1.html#metoder-vandfald-plan-driven",
+    "title": "AI-Agenter-F2026",
+    "section": "Metoder – vandfald – ”plan driven”",
+    "text": "Metoder – vandfald – ”plan driven”"
+  },
+  {
+    "objectID": "slides/lec1.html#agile",
+    "href": "slides/lec1.html#agile",
+    "title": "AI-Agenter-F2026",
+    "section": "Agile",
+    "text": "Agile\n”Opfundet” pga. ”overrun” i projekter\nXP, Scrum, Kanban (SAFe)\nMålet/salgstalen er – hele tiden at give kunden/brugeren den størst mulige værdi"
+  },
+  {
+    "objectID": "slides/lec1.html#agile-1",
+    "href": "slides/lec1.html#agile-1",
+    "title": "AI-Agenter-F2026",
+    "section": "Agile",
+    "text": "Agile\nIterative development : The process is broken down into short cycles called sprints or iterations, typically lasting 2-4 weeks.\nContinuous delivery : Working software is produced and delivered at the end of each iteration3.\nCustomer collaboration : There is frequent interaction with customers or stakeholders to gather feedback and adjust requirements.\nAdaptability : The process embraces change and allows for quick pivots based on new information or evolving needs.\nCross-functional teams : Development teams are self-organizing and include members with various skills needed to complete the project.\nPrioritization of features : The team focuses on delivering the most valuable features first, based on customer needs.\nContinuous improvement : The team regularly reflects on their process and makes adjustments to improve efficiency.\nEmphasis on working software : The primary measure of progress is functional software rather than comprehensive documentation."
+  },
+  {
+    "objectID": "slides/lec1.html#søger-at-løse",
+    "href": "slides/lec1.html#søger-at-løse",
+    "title": "AI-Agenter-F2026",
+    "section": "Søger at løse…",
+    "text": "Søger at løse…\nHurtige ændringer i krav\nTeknologi bliver forældet før det er klart\nMinimal valuable product-tankegang\nLøbende validering af kunder\nDokumentation bliver ikke opdateret"
+  },
+  {
+    "objectID": "slides/lec1.html#agile-manifesto",
+    "href": "slides/lec1.html#agile-manifesto",
+    "title": "AI-Agenter-F2026",
+    "section": "Agile Manifesto",
+    "text": "Agile Manifesto\nhttps://agilemanifesto.org/"
+  },
+  {
+    "objectID": "slides/lec1.html#øvelse",
+    "href": "slides/lec1.html#øvelse",
+    "title": "AI-Agenter-F2026",
+    "section": "Øvelse",
+    "text": "Øvelse\nOvervej forskellen på den venstre og højre side i ”The agile manifesto ”. Hvad betyder det for udvikling af software?\nIndividuals and interactions over processes and tools\nWorking software over comprehensive documentation\nCustomer collaboration over contract negotiation\nResponding to change over following a plan"
+  },
+  {
+    "objectID": "slides/lec1.html#agilt-fokus-i",
+    "href": "slides/lec1.html#agilt-fokus-i",
+    "title": "AI-Agenter-F2026",
+    "section": "Agilt fokus I",
+    "text": "Agilt fokus I\nLess emphasis on documentation : Only essential information should be documented, focusing on what is necessary for understanding and maintaining the system.\nLess emphasis on detailed plans : At the start of a project, often neither the customer nor the developers have a clear understanding of all requirements that should be implemented. This understanding gradually unfolds as sprints are completed and their outcomes validated. In essence, the core principle of agile is to progress even when we have incomplete, partial, and changing requirements."
+  },
+  {
+    "objectID": "slides/lec1.html#agilt-fokus-ii",
+    "href": "slides/lec1.html#agilt-fokus-ii",
+    "title": "AI-Agenter-F2026",
+    "section": "Agilt fokus II",
+    "text": "Agilt fokus II\nNo dedicated design phase , i.e., no Big Design Up Front (BDUF): The design of the software is also incremental, evolving with each iteration.\nSmall teams : Teams typically consist of around 10-12 developers or, as Amazon CEO Jeff Bezos phrased it, teams that can be fed with two pizzas. This concept can also be compared to the size of sports teams, ranging from a basketball team (5 members) to a soccer team (11 members).\nEmphasis on innovative programming practices (as of the early 2000s), such as automated testing, refactoring, and continuous integration."
+  },
+  {
+    "objectID": "slides/lec1.html#scrum",
+    "href": "slides/lec1.html#scrum",
+    "title": "AI-Agenter-F2026",
+    "section": "SCRUM",
+    "text": "SCRUM\n\n\n\nEt billede, der indeholder tekst, skærmbillede, design"
+  },
+  {
+    "objectID": "slides/lec1.html#kanban",
+    "href": "slides/lec1.html#kanban",
+    "title": "AI-Agenter-F2026",
+    "section": "Kanban",
+    "text": "Kanban\n\n\n\nundefined"
+  },
+  {
+    "objectID": "slides/lec1.html#øvelse-1",
+    "href": "slides/lec1.html#øvelse-1",
+    "title": "AI-Agenter-F2026",
+    "section": "Øvelse",
+    "text": "Øvelse\nBeskriv den grundlæggende forskel på Scrum og Kanban"
+  },
+  {
+    "objectID": "slides/lec1.html#systemudviklingsmodeller",
+    "href": "slides/lec1.html#systemudviklingsmodeller",
+    "title": "AI-Agenter-F2026",
+    "section": "Systemudviklingsmodeller",
+    "text": "Systemudviklingsmodeller\nMetoder er anbefalinger\nOrganisationer er nødt til at tilpasse og reflektere over brugen af metoderne\nXP, Scrum, and Kanban are examples of agile methods or, in other words, they define practices, activities, events, and techniques that align with agile principles."
+  },
+  {
+    "objectID": "slides/lec1.html#spiral-model-fra-1986",
+    "href": "slides/lec1.html#spiral-model-fra-1986",
+    "title": "AI-Agenter-F2026",
+    "section": "Spiral model (fra 1986)",
+    "text": "Spiral model (fra 1986)\nDefining objectives and constraints, including costs, schedules, etc.\nEvaluating alternatives and conducting risk analysis. For instance, considering whether it is more cost-effective to purchase a system instead of developing it in-house.\nDevelopment and testing, potentially using the Waterfall model. By the end of this stage, a prototype should be produced for demonstration to users.\nPlanning for the next iteration or deciding to conclude the project if the current implementation already meets the organization’s needs."
+  },
+  {
+    "objectID": "slides/lec1.html#rational-unified-process",
+    "href": "slides/lec1.html#rational-unified-process",
+    "title": "AI-Agenter-F2026",
+    "section": "Rational Unified Process",
+    "text": "Rational Unified Process"
+  },
+  {
+    "objectID": "slides/lec1.html#extreme-programming",
+    "href": "slides/lec1.html#extreme-programming",
+    "title": "AI-Agenter-F2026",
+    "section": "eXtreme Programming",
+    "text": "eXtreme Programming\nAgil tilgang på linje med Scrum og Kanban\nBestår af\nValues (værdisæt/normer)\nPrincipper\nPraksis\nVi kigger på en specifik praksis i dag, test driven development"
+  },
+  {
+    "objectID": "slides/lec1.html#test-driven-development",
+    "href": "slides/lec1.html#test-driven-development",
+    "title": "AI-Agenter-F2026",
+    "section": "Test Driven Development",
+    "text": "Test Driven Development\n\n\n\nSe kildebilledet\n\n\n”Test First Development” - Skriv testen før koden\nWe start with a failing test.\nWe create the production code on the fly, while building our test.\nWe’re done when the test(s) pass.\nNow we refactor, to optimize the test structure and data."
+  },
+  {
+    "objectID": "slides/lec1.html#slide-26",
+    "href": "slides/lec1.html#slide-26",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 26",
+    "text": "Slide 26"
+  },
+  {
+    "objectID": "slides/lec1.html#hvorfor-tdd",
+    "href": "slides/lec1.html#hvorfor-tdd",
+    "title": "AI-Agenter-F2026",
+    "section": "Hvorfor TDD?",
+    "text": "Hvorfor TDD?\nTDD prevents developers from forgetting to write tests.\nPrevent developers to forget tests\nGives higher test coverage\nTDD encourages writing code with high testability.\nSince developers first write the test T and then the class C, they are naturally inclined to design C to facilitate testing.\nTDD is not only a testing practice but also a design practice.\nThis occurs because developers, by starting with the tests T, put themselves in the position of a user of the class C.\nIn other words, with TDD, the first user of the class is its own developer—recall that T is a client of C, as it calls methods from C.\nTherefore, it is expected that developers will define a simple interface for the class, using readable method names and minimizing the number of parameters, among other best practices."
+  },
+  {
+    "objectID": "slides/lec1.html#example-of-tdd-shopping-cart",
+    "href": "slides/lec1.html#example-of-tdd-shopping-cart",
+    "title": "AI-Agenter-F2026",
+    "section": "Example of TDD: Shopping Cart",
+    "text": "Example of TDD: Shopping Cart"
+  },
+  {
+    "objectID": "slides/lec1.html#slide-29",
+    "href": "slides/lec1.html#slide-29",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 29",
+    "text": "Slide 29"
+  },
+  {
+    "objectID": "slides/lec1.html#slide-30",
+    "href": "slides/lec1.html#slide-30",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 30",
+    "text": "Slide 30"
+  },
+  {
+    "objectID": "slides/lec1.html#slide-31",
+    "href": "slides/lec1.html#slide-31",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 31",
+    "text": "Slide 31"
+  },
+  {
+    "objectID": "slides/lec1.html#slide-32",
+    "href": "slides/lec1.html#slide-32",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 32",
+    "text": "Slide 32"
+  },
+  {
+    "objectID": "slides/lec1.html#slide-33",
+    "href": "slides/lec1.html#slide-33",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 33",
+    "text": "Slide 33"
+  },
+  {
+    "objectID": "slides/lec1.html#opgave",
+    "href": "slides/lec1.html#opgave",
+    "title": "AI-Agenter-F2026",
+    "section": "Opgave",
+    "text": "Opgave\nI arbejder som IT-arkitekter.\nI arbejder et sted, hvor der udvikles i Python.\nI skal komme med et forslag til værktøjer, som kan understøtte udviklernes brug af Test Driven Development\nFokus skal være på programmeringsdelen\nForestil jer at den nuværende tilgang ikke er TDD\nLad jer inspirere af andre – læs, søg, spørg (AI)\nAfprøv et enkelt værktøj\nPræsentation\nFremlægges i næste uge for klassen\n1 slide\nAnbefalet værktøj\nFordele og ulemper (evt. erfaringer)\nEvt. en slide med alternativer (bilag)\nLav evt. En simpel case f.eks. Med en funktion til at tage en kvadratrod. Start med test og fyld så på med de andre ting."
+  },
+  {
+    "objectID": "slides/lec1.html#slide-35",
+    "href": "slides/lec1.html#slide-35",
+    "title": "AI-Agenter-F2026",
+    "section": "Slide 35",
+    "text": "Slide 35\nUnittest\nPytest\nNose2\nIntet framework…"
+  },
+  {
+    "objectID": "slides/lec1.html#pytest",
+    "href": "slides/lec1.html#pytest",
+    "title": "AI-Agenter-F2026",
+    "section": "Pytest",
+    "text": "Pytest\npytest -html\nGenerates HTML test reports\nEasy to install: pip install pytest -html\nRun with: pytest –html=report.html\npytest-sugar\nImproves terminal test output\nColorful, more readable results\nInstall: pip install pytest-sugar\nCoverage.py\nCode coverage visualization\nShows which code parts are tested\nInstall: pip install coverage\nRun with: coverage run -m pytest"
+  },
+  {
+    "objectID": "slides/lec1.html#prototyping",
+    "href": "slides/lec1.html#prototyping",
+    "title": "AI-Agenter-F2026",
+    "section": "Prototyping",
+    "text": "Prototyping\nBruger protyper efter hver iteration til at forbedre systemet"
+  },
+  {
+    "objectID": "exercises/week09-exercises.html",
+    "href": "exercises/week09-exercises.html",
+    "title": "Week 9 Exercises",
+    "section": "",
+    "text": "Week 9 Exercises",
+    "crumbs": [
+      "Exercises",
+      "Week 9 Exercises"
+    ]
+  },
+  {
+    "objectID": "modules/week02-module.html",
+    "href": "modules/week02-module.html",
+    "title": "Week 2 Module",
+    "section": "",
+    "text": "Week 2 Module",
+    "crumbs": [
+      "Modules",
+      "Week 2 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week04-module.html",
+    "href": "modules/week04-module.html",
+    "title": "Week 4 Module",
+    "section": "",
+    "text": "Week 4 Module",
+    "crumbs": [
+      "Modules",
+      "Week 4 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week06-module.html",
+    "href": "modules/week06-module.html",
+    "title": "Week 6 Module",
+    "section": "",
+    "text": "Week 6 Module",
+    "crumbs": [
+      "Modules",
+      "Week 6 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week08-module.html",
+    "href": "modules/week08-module.html",
+    "title": "Week 8 Module",
+    "section": "",
+    "text": "Week 8 Module",
+    "crumbs": [
+      "Modules",
+      "Week 8 Module"
+    ]
+  },
+  {
+    "objectID": "modules/week10-module.html",
+    "href": "modules/week10-module.html",
+    "title": "Week 10 Module",
+    "section": "",
+    "text": "Week 10 Module",
+    "crumbs": [
+      "Modules",
+      "Week 10 Module"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "TBA",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#agenda",
+    "href": "slides/week01-slides.html#agenda",
+    "title": "1. Systemdesign",
+    "section": "Agenda",
+    "text": "Agenda\nIntroduktion til Systemdesign kurset\nRecap af agil tilgang\nSystemudviklingsmodeller\nOpstart af eXtreme programming\nTil næste gang…",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#kursets-struktur-og-emner",
+    "href": "slides/week01-slides.html#kursets-struktur-og-emner",
+    "title": "1. Systemdesign",
+    "section": "Kursets struktur og emner",
+    "text": "Kursets struktur og emner\nSystemudviklingsmetoder ​\nDesign og arkitektur ​\nCase med IT og økonomi\nProjekt\nEksamen",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#studieordning---læringsmål",
+    "href": "slides/week01-slides.html#studieordning---læringsmål",
+    "title": "1. Systemdesign",
+    "section": "Studieordning - læringsmål",
+    "text": "Studieordning - læringsmål\nViden ​ - d en studerende har:​ • viden om kravindsamling og kravbeskrivelse.​ • viden om modeller til omformning af krav til løsningsarkitektur.​ • viden om modelbaseret softwaredesign.​\nFærdigheder​ - den studerende kan:​ • anvende metoder og modeller til udarbejdelse af en løsningsarkitektur.​ • anvende standarder som en integreret del af en løsningsarkitektur.​ • anvende arkitektur patterns som grundlag for en løsningsarkitektur.​ • vurdere praksisnære og teoretiske problemstillinger inden for modelbaseret softwaredesign samt begrunde og vælge relevante løsningsmodeller.​ • formidle en løsningsarkitektur til relevante interessenter.​\nKompetencer​ - en studerende kan:​ • håndtere komplekse og udviklingssituationer med at analysere krav og metodisk og struktureret udarbejde en løsningsarkitektur baseret på standarder og arkitektur patterns.​ • identificere egne læringsbehov og udvikle egen viden, færdigheder og kompetencer i relation til udarbejdelse af løsningsarkitekturer.​\nhttps://katalog.kea.dk/course/4111406/2023-2024",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#undervisningsform",
+    "href": "slides/week01-slides.html#undervisningsform",
+    "title": "1. Systemdesign",
+    "section": "Undervisningsform",
+    "text": "Undervisningsform\n”Undervisning vil være en vekselvirkning mellem præsentation, øvelser og projektarbejde.” ( https://katalog.kea.dk/course/4111406/2023-2024 )\nI skal øve jer I selv at opsøge information, så I kommer i højere grad til at være opsøgende omkring nye emner.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#eksamensform",
+    "href": "slides/week01-slides.html#eksamensform",
+    "title": "1. Systemdesign",
+    "section": "Eksamensform",
+    "text": "Eksamensform\nFælles prøve med Projektstyring og Projektledelse\n30 min. ink. votering med kendte spørgsmål",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#projekter",
+    "href": "slides/week01-slides.html#projekter",
+    "title": "1. Systemdesign",
+    "section": "Projekter",
+    "text": "Projekter\nFælles projekt med projektledelse og projektstyring\nAfsluttende projekt\nDet er IKKE et eksamensprojekt\nReview og feedback til IT og økonomistuderende",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-8",
+    "href": "slides/week01-slides.html#slide-8",
+    "title": "1. Systemdesign",
+    "section": "Slide 8",
+    "text": "Slide 8",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#recap-af-systemudviklingsmetoder",
+    "href": "slides/week01-slides.html#recap-af-systemudviklingsmetoder",
+    "title": "1. Systemdesign",
+    "section": "Recap af systemudviklingsmetoder",
+    "text": "Recap af systemudviklingsmetoder",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#metoder-vandfald-plan-driven",
+    "href": "slides/week01-slides.html#metoder-vandfald-plan-driven",
+    "title": "1. Systemdesign",
+    "section": "Metoder – vandfald – ”plan driven”",
+    "text": "Metoder – vandfald – ”plan driven”",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#agile",
+    "href": "slides/week01-slides.html#agile",
+    "title": "1. Systemdesign",
+    "section": "Agile",
+    "text": "Agile\n”Opfundet” pga. ”overrun” i projekter\nXP, Scrum, Kanban (SAFe)\nMålet/salgstalen er – hele tiden at give kunden/brugeren den størst mulige værdi",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#agile-1",
+    "href": "slides/week01-slides.html#agile-1",
+    "title": "1. Systemdesign",
+    "section": "Agile",
+    "text": "Agile\nIterative development : The process is broken down into short cycles called sprints or iterations, typically lasting 2-4 weeks.\nContinuous delivery : Working software is produced and delivered at the end of each iteration3.\nCustomer collaboration : There is frequent interaction with customers or stakeholders to gather feedback and adjust requirements.\nAdaptability : The process embraces change and allows for quick pivots based on new information or evolving needs.\nCross-functional teams : Development teams are self-organizing and include members with various skills needed to complete the project.\nPrioritization of features : The team focuses on delivering the most valuable features first, based on customer needs.\nContinuous improvement : The team regularly reflects on their process and makes adjustments to improve efficiency.\nEmphasis on working software : The primary measure of progress is functional software rather than comprehensive documentation.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#søger-at-løse",
+    "href": "slides/week01-slides.html#søger-at-løse",
+    "title": "1. Systemdesign",
+    "section": "Søger at løse…",
+    "text": "Søger at løse…\nHurtige ændringer i krav\nTeknologi bliver forældet før det er klart\nMinimal valuable product-tankegang\nLøbende validering af kunder\nDokumentation bliver ikke opdateret",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#agile-manifesto",
+    "href": "slides/week01-slides.html#agile-manifesto",
+    "title": "1. Systemdesign",
+    "section": "Agile Manifesto",
+    "text": "Agile Manifesto\nhttps://agilemanifesto.org/",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#øvelse",
+    "href": "slides/week01-slides.html#øvelse",
+    "title": "1. Systemdesign",
+    "section": "Øvelse",
+    "text": "Øvelse\nOvervej forskellen på den venstre og højre side i ”The agile manifesto ”. Hvad betyder det for udvikling af software?\nIndividuals and interactions over processes and tools\nWorking software over comprehensive documentation\nCustomer collaboration over contract negotiation\nResponding to change over following a plan",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#agilt-fokus-i",
+    "href": "slides/week01-slides.html#agilt-fokus-i",
+    "title": "1. Systemdesign",
+    "section": "Agilt fokus I",
+    "text": "Agilt fokus I\nLess emphasis on documentation : Only essential information should be documented, focusing on what is necessary for understanding and maintaining the system.\nLess emphasis on detailed plans : At the start of a project, often neither the customer nor the developers have a clear understanding of all requirements that should be implemented. This understanding gradually unfolds as sprints are completed and their outcomes validated. In essence, the core principle of agile is to progress even when we have incomplete, partial, and changing requirements.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#agilt-fokus-ii",
+    "href": "slides/week01-slides.html#agilt-fokus-ii",
+    "title": "1. Systemdesign",
+    "section": "Agilt fokus II",
+    "text": "Agilt fokus II\nNo dedicated design phase , i.e., no Big Design Up Front (BDUF): The design of the software is also incremental, evolving with each iteration.\nSmall teams : Teams typically consist of around 10-12 developers or, as Amazon CEO Jeff Bezos phrased it, teams that can be fed with two pizzas. This concept can also be compared to the size of sports teams, ranging from a basketball team (5 members) to a soccer team (11 members).\nEmphasis on innovative programming practices (as of the early 2000s), such as automated testing, refactoring, and continuous integration.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#scrum",
+    "href": "slides/week01-slides.html#scrum",
+    "title": "1. Systemdesign",
+    "section": "SCRUM",
+    "text": "SCRUM\n\nEt billede, der indeholder tekst, skærmbillede, design",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#kanban",
+    "href": "slides/week01-slides.html#kanban",
+    "title": "1. Systemdesign",
+    "section": "Kanban",
+    "text": "Kanban\n\nundefined",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#øvelse-1",
+    "href": "slides/week01-slides.html#øvelse-1",
+    "title": "1. Systemdesign",
+    "section": "Øvelse",
+    "text": "Øvelse\nBeskriv den grundlæggende forskel på Scrum og Kanban",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#systemudviklingsmodeller",
+    "href": "slides/week01-slides.html#systemudviklingsmodeller",
+    "title": "1. Systemdesign",
+    "section": "Systemudviklingsmodeller",
+    "text": "Systemudviklingsmodeller\nMetoder er anbefalinger\nOrganisationer er nødt til at tilpasse og reflektere over brugen af metoderne\nXP, Scrum, and Kanban are examples of agile methods or, in other words, they define practices, activities, events, and techniques that align with agile principles.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#spiral-model-fra-1986",
+    "href": "slides/week01-slides.html#spiral-model-fra-1986",
+    "title": "1. Systemdesign",
+    "section": "Spiral model (fra 1986)",
+    "text": "Spiral model (fra 1986)\nDefining objectives and constraints, including costs, schedules, etc.\nEvaluating alternatives and conducting risk analysis. For instance, considering whether it is more cost-effective to purchase a system instead of developing it in-house.\nDevelopment and testing, potentially using the Waterfall model. By the end of this stage, a prototype should be produced for demonstration to users.\nPlanning for the next iteration or deciding to conclude the project if the current implementation already meets the organization’s needs.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#rational-unified-process",
+    "href": "slides/week01-slides.html#rational-unified-process",
+    "title": "1. Systemdesign",
+    "section": "Rational Unified Process",
+    "text": "Rational Unified Process",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#extreme-programming",
+    "href": "slides/week01-slides.html#extreme-programming",
+    "title": "1. Systemdesign",
+    "section": "eXtreme Programming",
+    "text": "eXtreme Programming\nAgil tilgang på linje med Scrum og Kanban\nBestår af\nValues (værdisæt/normer)\nPrincipper\nPraksis\nVi kigger på en specifik praksis i dag, test driven development",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#test-driven-development",
+    "href": "slides/week01-slides.html#test-driven-development",
+    "title": "1. Systemdesign",
+    "section": "Test Driven Development",
+    "text": "Test Driven Development\n\nSe kildebilledet”Test First Development” - Skriv testen før koden\nWe start with a failing test.\nWe create the production code on the fly, while building our test.\nWe’re done when the test(s) pass.\nNow we refactor, to optimize the test structure and data.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-26",
+    "href": "slides/week01-slides.html#slide-26",
+    "title": "1. Systemdesign",
+    "section": "Slide 26",
+    "text": "Slide 26",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#hvorfor-tdd",
+    "href": "slides/week01-slides.html#hvorfor-tdd",
+    "title": "1. Systemdesign",
+    "section": "Hvorfor TDD?",
+    "text": "Hvorfor TDD?\nTDD prevents developers from forgetting to write tests.\nPrevent developers to forget tests\nGives higher test coverage\nTDD encourages writing code with high testability.\nSince developers first write the test T and then the class C, they are naturally inclined to design C to facilitate testing.\nTDD is not only a testing practice but also a design practice.\nThis occurs because developers, by starting with the tests T, put themselves in the position of a user of the class C.\nIn other words, with TDD, the first user of the class is its own developer—recall that T is a client of C, as it calls methods from C.\nTherefore, it is expected that developers will define a simple interface for the class, using readable method names and minimizing the number of parameters, among other best practices.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#example-of-tdd-shopping-cart",
+    "href": "slides/week01-slides.html#example-of-tdd-shopping-cart",
+    "title": "1. Systemdesign",
+    "section": "Example of TDD: Shopping Cart",
+    "text": "Example of TDD: Shopping Cart",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-29",
+    "href": "slides/week01-slides.html#slide-29",
+    "title": "1. Systemdesign",
+    "section": "Slide 29",
+    "text": "Slide 29",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-30",
+    "href": "slides/week01-slides.html#slide-30",
+    "title": "1. Systemdesign",
+    "section": "Slide 30",
+    "text": "Slide 30",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-31",
+    "href": "slides/week01-slides.html#slide-31",
+    "title": "1. Systemdesign",
+    "section": "Slide 31",
+    "text": "Slide 31",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-32",
+    "href": "slides/week01-slides.html#slide-32",
+    "title": "1. Systemdesign",
+    "section": "Slide 32",
+    "text": "Slide 32",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-33",
+    "href": "slides/week01-slides.html#slide-33",
+    "title": "1. Systemdesign",
+    "section": "Slide 33",
+    "text": "Slide 33",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#opgave",
+    "href": "slides/week01-slides.html#opgave",
+    "title": "1. Systemdesign",
+    "section": "Opgave",
+    "text": "Opgave\nI arbejder som IT-arkitekter.\nI arbejder et sted, hvor der udvikles i Python.\nI skal komme med et forslag til værktøjer, som kan understøtte udviklernes brug af Test Driven Development\nFokus skal være på programmeringsdelen\nForestil jer at den nuværende tilgang ikke er TDD\nLad jer inspirere af andre – læs, søg, spørg (AI)\nAfprøv et enkelt værktøj\nPræsentation\nFremlægges i næste uge for klassen\n1 slide\nAnbefalet værktøj\nFordele og ulemper (evt. erfaringer)\nEvt. en slide med alternativer (bilag)\nLav evt. En simpel case f.eks. Med en funktion til at tage en kvadratrod. Start med test og fyld så på med de andre ting.",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#slide-35",
+    "href": "slides/week01-slides.html#slide-35",
+    "title": "1. Systemdesign",
+    "section": "Slide 35",
+    "text": "Slide 35\nUnittest\nPytest\nNose2\nIntet framework…",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#pytest",
+    "href": "slides/week01-slides.html#pytest",
+    "title": "1. Systemdesign",
+    "section": "Pytest",
+    "text": "Pytest\npytest -html\nGenerates HTML test reports\nEasy to install: pip install pytest -html\nRun with: pytest –html=report.html\npytest-sugar\nImproves terminal test output\nColorful, more readable results\nInstall: pip install pytest-sugar\nCoverage.py\nCode coverage visualization\nShows which code parts are tested\nInstall: pip install coverage\nRun with: coverage run -m pytest",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#prototyping",
+    "href": "slides/week01-slides.html#prototyping",
+    "title": "1. Systemdesign",
+    "section": "Prototyping",
+    "text": "Prototyping\nBruger protyper efter hver iteration til at forbedre systemet",
+    "crumbs": [
+      "Slides",
+      "1. Systemdesign"
+    ]
+  },
+  {
+    "objectID": "slides/week09-slides.html",
+    "href": "slides/week09-slides.html",
+    "title": "Week 9 Slides",
+    "section": "",
+    "text": "Week 9 Slides",
+    "crumbs": [
+      "Slides",
+      "Week 9 Slides"
+    ]
   }
 ]
