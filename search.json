@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "courseoverview.html",
+    "href": "courseoverview.html",
+    "title": "Systemdesign-F2026",
+    "section": "",
+    "text": "Here is the data from the image formatted as a Markdown table, excluding the first column and the course column as requested.\n\n\n\n\n\n\n\n\nWeek\nDate\nEmne\n\n\n\n\n5\n29-01-26\nIntroduktion til faget - recap af systemudviklingsmetoder - agile\n\n\n6\n05-02-26\nKrav - FURPS - function vs non-functionel - MoSCoW-modellen\n\n\n7\n12-02-26\nPrompt as a spec - vibe coding\n\n\n8\n19-02-26\nXP - TTD\n\n\n9\n26-02-26\nBurn down, poker planning, retrospective, etc. agile stuff\n\n\n10\n05-03-26\nSammenligning af metoder\n\n\n11\n12-03-26\nAbstraktion - context model - domain model - klassediagram\n\n\n12\n20-03-26\nArkitektur\n\n\n13\n26-03-26\nArkitektur - også AI - MCP vs. API - AI arkitektur\n\n\n15\n09-04-26\nProjekt\n\n\n16\n17-04-26\nDesign patterns\n\n\n17\n23-04-26\nAI design\n\n\n18\n30-04-26\nClean code og legecy code\n\n\n19\n07-05-26\nProjekt - opsamling - buffer\n\n\n21\n21-05-26\nProjekt\n\n\n22\n28-05-26\nProjekt"
+  }
+]
