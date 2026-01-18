@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Systemdesign-F2026"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: exercises/index.md
+        text: Exercises
+      - href: slides/index.qmd
+        text: Slides
+      - href: literature/index.qmd
+        text: Literature
+      - href: projects/index.md
+        text: Projects
+      - href: modules/index.md
+        text: Modules
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
