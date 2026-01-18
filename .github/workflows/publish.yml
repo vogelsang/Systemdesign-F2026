@@ -2,6 +2,7 @@ name: Render and Publish
 on:
   push:
     branches: [ main ]
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -10,12 +11,13 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2[[6](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQF7wtbpEB461cYKu1IqhLU6M_XqGo_rrG099HDhv_bOstO7gPWGlyJ0zAVT8JYy_XHq73y8dGTcNR88wV0mzY1Z47ibyZaI4uXhcbKbPy0D-NwmTAYNG3pZ_bLyrQbtCoKZt7Qz3lOiY3jXnmp1okFmknaOLYmThaw%3D)]
+        uses: quarto-dev/quarto-actions/setup@v2
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```[[6](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQF7wtbpEB461cYKu1IqhLU6M_XqGo_rrG099HDhv_bOstO7gPWGlyJ0zAVT8JYy_XHq73y8dGTcNR88wV0mzY1Z47ibyZaI4uXhcbKbPy0D-NwmTAYNG3pZ_bLyrQbtCoKZt7Qz3lOiY3jXnmp1okFmknaOLYmThaw%3D)]
